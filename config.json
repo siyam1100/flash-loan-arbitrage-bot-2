@@ -1,0 +1,12 @@
+{
+  "networks": {
+    "polygon": {
+      "poolAddressesProvider": "0xa97684ead0e4511c6995002a0376964130768d75",
+      "wmatic": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+    },
+    "ethereum": {
+      "poolAddressesProvider": "0x2f39d218133AFaB8F2B819B1066c7E434Ad94E9e",
+      "weth": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    }
+  }
+}
